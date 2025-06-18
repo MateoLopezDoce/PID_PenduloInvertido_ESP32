@@ -1,0 +1,8 @@
+name=PIDControllerESP32
+version=1.0.1
+author=Mateo_Javier
+maintainer=Mateo_Javier <mateolopezdoce023@gmail.com>
+sentence=Librería PID discreto para ESP32.
+paragraph=Incluye modos básico, IIR y con derivada filtrada.
+category=Signal Input/Output
+architectures=esp32
